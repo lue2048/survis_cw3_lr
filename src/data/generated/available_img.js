@@ -1,0 +1,1 @@
+define({ availableImg: ["Beck2016Visual","cai2025_rank_score","lee2024_cot_scoring","mizumoto2023_gpt_toefl11","pack2024_llm_aes","qinthara2025_reliability_aes","song2024_openllm_aes_aer","su2025_essayjudge_benchmark","wang2024_llm_validity","xu2024_slr_aes","yavuz2025_llm_rubric"]});
